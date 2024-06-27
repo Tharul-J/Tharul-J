@@ -2,6 +2,11 @@
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="50%">
 </div>
 
+
+
+▀█▀ █░█ ▄▀█ █▀█ █░█ █░░
+░█░ █▀█ █▀█ █▀▄ █▄█ █▄▄
+
 <h1 align="center">Hi 👋, I'm Tharul Jayasundara</h1>
 <h3 align="center">Tech Enthusiast | CS Undergraduate</h3>
 
@@ -58,10 +63,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharul-J&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tharul-J&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharul-J&theme=2077" height="180em" />
-   
 
-▀█▀ █░█ ▄▀█ █▀█ █░█ █░░
-░█░ █▀█ █▀█ █▀▄ █▄█ █▄▄
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
