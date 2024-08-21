@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div> 
-  <a href="https://www.linkedin.com/in/tharuljayasundara" target="_blank">
+  <a href="[https://www.linkedin.com/in/tharuljayasundara](https://www.instagram.com/_tj.s.gallery_?igsh=NTc4MTIwNjQ2YQ==)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
