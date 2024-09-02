@@ -51,10 +51,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
--------
+
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tharul-J&label=Profile%20views&color=ce9927&style=flat" alt="Tharul-J" /> </p>
    
 
+
+   
 <h3 align="center">Statistics</h3>
 <div align="center">
   <a href="https://github.com/Tharul-J">
