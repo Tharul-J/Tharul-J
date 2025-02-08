@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Tharul Jayasundara</h1>
+<h1 align="center">Hi!👋, I'm Tharul Jayasundara</h1>
 <h3 align="center">Tech Enthusiast | CS Undergraduate</h3>
 
 
